@@ -34,4 +34,4 @@ Keypass Generator é uma aplicação web que permite aos usuários gerar senhas 
 
 - Contribuições são bem-vindas! Sinta-se à vontade para bifurcar este repositório, fazer alterações e enviar uma solicitação pull. Certifique-se de seguir as diretrizes de contribuição e manter o código limpo e bem documentado.
 
-- 
+  
