@@ -4,7 +4,7 @@
 
 Keypass Generator é uma aplicação web que permite aos usuários gerar senhas fortes e seguras de forma conveniente e personalizável. Utilizando HTML, CSS e JavaScript, este projeto oferece uma interface intuitiva para configurar e gerar senhas com diferentes combinações de letras maiúsculas, números e símbolos.
 
-##Funcionalidades Principais
+## Funcionalidades Principais
 
 - Geração de Senhas Personalizadas: Os usuários podem ajustar o comprimento da senha usando um controle deslizante e escolher incluir ou excluir letras maiúsculas, números e símbolos.
 
